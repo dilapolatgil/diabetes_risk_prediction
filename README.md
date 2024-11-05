@@ -1,3 +1,3 @@
 # diabetes_risk_prediction
 Diabetes is a chronic health condition that affects how the body converts food into energy. It occurs when the body either doesn’t produce enough insulin or can’t effectively use the insulin it produces, leading to high blood sugar levels. There are two main types of diabetes: Type 1, which is often diagnosed in childhood and requires insulin injections, and Type 2, which is more common in adults and is often managed through lifestyle changes, medication, and sometimes insulin. Uncontrolled diabetes can lead to serious health complications, including heart disease, kidney failure, and nerve damage.
-![d](https://github.com/user-attachments/assets/833f087e-8d76-4034-b562-895645f89ba4)
+In this project, a dataset named "diabetes" was used. After performing necessary data preprocessing, different machine learning metrics were tested, and the most suitable one was selected to proceed with.
